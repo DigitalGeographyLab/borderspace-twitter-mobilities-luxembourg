@@ -22,4 +22,5 @@ Collection of data is based upon the tool *tweetsearcher* created by Tuomo Väis
 ## Citation
 
 If you use the materials here please use the following reference:
+
 Järv et al. (2022). Revealing Mobilities of People to Understand Cross-Border Regions: Insights from Luxembourg Using Social Media Data. European Planning Studies (Provisionally accepted manuscript at the time of writing)
